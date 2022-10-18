@@ -1,0 +1,8 @@
+* {
+    background: rgb(204, 156, 46);
+    background: linear-gradient(90deg, rgba(204, 156, 46, 1) 0%, rgba(200, 25, 83, 1) 54%, rgba(201, 201, 201, 1) 100%);
+}
+
+.res {
+    border: solid black 5px;
+}
